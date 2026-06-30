@@ -1,2 +1,31 @@
-# blog-card
-A responsive and modern blog card UI built using HTML and CSS. The project includes a clean layout with image, title, description, tags, and hover effects, demonstrating strong front-end design and styling skills.
+# Blog Card UI Design
+
+A modern and responsive blog card UI built using HTML and CSS. This project focuses on clean design, layout structure, and smooth hover effects to enhance user experience.
+
+---
+
+## 🚀 Features
+- Responsive blog card layout  
+- Clean and modern UI design  
+- Image, title, description, and tag section  
+- Smooth hover animation effect  
+- Beginner-friendly front-end project  
+
+---
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+
+---
+
+## 🎯 Purpose of This Project
+This project was built to practice front-end development skills, especially layout design, CSS styling, and UI/UX principles.
+
+---
+
+## 📌 What I Learned
+- How to design a clean UI card layout  
+- CSS hover effects and transitions  
+- Structuring content using HTML  
+- Improving visual presentation skills  
