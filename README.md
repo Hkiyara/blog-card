@@ -21,11 +21,4 @@ A modern and responsive blog card UI built using HTML and CSS. This project focu
 
 ## 🎯 Purpose of This Project
 This project was built to practice front-end development skills, especially layout design, CSS styling, and UI/UX principles.
-
----
-
-## 📌 What I Learned
-- How to design a clean UI card layout  
-- CSS hover effects and transitions  
-- Structuring content using HTML  
-- Improving visual presentation skills  
+ 
